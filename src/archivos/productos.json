@@ -1,0 +1,74 @@
+[
+     {
+          "id": 1,
+          "nombre": "Laptop Pro",
+          "categoria": "Electrónica",
+          "precio": 1200.5,
+          "stock": 15,
+          "imagen": "url_a_la_imagen_laptop.jpg"
+     },
+     {
+          "id": 2,
+          "nombre": "Smartphone X",
+          "categoria": "Electrónica",
+          "precio": 799.99,
+          "stock": 30,
+          "imagen": "url_a_la_imagen_smartphone.jpg"
+     },
+     {
+          "id": 3,
+          "nombre": "Auriculares Inalámbricos",
+          "categoria": "Accesorios",
+          "precio": 150,
+          "stock": 50,
+          "imagen": "url_a_la_imagen_auriculares.jpg"
+     },
+     {
+          "id": 4,
+          "nombre": "Teclado Mecánico",
+          "categoria": "Accesorios",
+          "precio": 95.75,
+          "stock": 40,
+          "imagen": "url_a_la_imagen_teclado.jpg"
+     },
+     {
+          "id": 5,
+          "nombre": "Monitor 4K 27 pulgadas",
+          "categoria": "Electrónica",
+          "precio": 450,
+          "stock": 25,
+          "imagen": "url_a_la_imagen_monitor.jpg"
+     },
+     {
+          "nombre": "Notebook",
+          "categoria": "Tecnologia",
+          "precio": 1,
+          "stock": 1,
+          "imagen": "sin imagen",
+          "id": 6
+     },
+     {
+          "nombre": "Notebook",
+          "categoria": "Tecnologia",
+          "precio": 1,
+          "stock": 0,
+          "imagen": "sin imagen",
+          "id": 7
+     },
+     {
+          "nombre": "Notebook",
+          "categoria": "Tecnologia",
+          "precio": 1,
+          "stock": 0,
+          "imagen": "sin imagen",
+          "id": 8
+     },
+     {
+          "nombre": "Notebook",
+          "categoria": "Tecnologia",
+          "precio": 1,
+          "stock": 0,
+          "imagen": "sin imagen",
+          "id": 9
+     }
+]
